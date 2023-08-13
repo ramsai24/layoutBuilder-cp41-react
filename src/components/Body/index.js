@@ -24,7 +24,7 @@ const Body = () => (
           <div className="content">
             {showContent && (
               <div>
-                <p>Content</p>
+                <h1>Content</h1>
                 <p>
                   Lorem ipsum dollor sit amet, cosectetur adipisicing elit, sed
                   do eiusmod tempor inididunt ut labore et dolore magna aliqua.
