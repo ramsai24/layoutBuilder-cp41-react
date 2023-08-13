@@ -1,1 +1,31 @@
 /* Write your CSS here */
+.body-container {
+  background-color: #f1f5f9;
+  flex-grow: 1;
+  border: 1px solid red;
+  display: flex;
+
+  height: 500px;
+  margin: 12px;
+}
+
+.left-right-navbar {
+  background-color: #e3e8f0;
+  border: 1px solid green;
+  width: 30%;
+  padding: 20px;
+}
+.content {
+  width: 40%;
+  background-color: #f1f5f9;
+}
+
+.add-containers {
+  flex-grow: 1;
+  height: 150px;
+  border: 1px solid #475569;
+  margin-top: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
